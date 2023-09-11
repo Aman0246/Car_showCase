@@ -10,7 +10,7 @@ export default function Footer() {
                     <div>
 
                         <div className='flex items-center'>
-                            <Image src={logo} width={110} height={18} />
+                            <Image src={logo} width={110} height={18} alt='loading..' />
                             <div className='font-bold -ml-3'>CarHub</div>
                         </div>
                         <div className=' text-xs ml-5 text-gray-700'>Carhub 2023 <br />
